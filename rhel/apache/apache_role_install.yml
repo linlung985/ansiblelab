@@ -3,4 +3,4 @@
   hosts: web
 
   roles:
-    - role_apache2
+    - role_apache
