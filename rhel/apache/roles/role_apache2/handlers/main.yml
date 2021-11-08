@@ -1,7 +1,0 @@
----
-# handlers file for role_apache2
-
-- name: apache-restart
-  service:
-    name: httpd
-    state: restarted
