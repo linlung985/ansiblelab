@@ -1,6 +1,6 @@
 ---
 - name: Apache server installed
-  hosts: web
+  hosts: web2
 
   tasks:
   - name: latest Apache version installed
